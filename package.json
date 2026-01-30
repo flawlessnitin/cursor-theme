@@ -1,0 +1,22 @@
+{
+  "name": "cursor-theme",
+  "displayName": "Cursor Theme",
+  "description": "A Cursor-inspired dark theme with purple accents",
+  "version": "0.0.1",
+  "publisher": "your-publisher-name",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cursor Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/my-custom-theme-color-theme.json"
+      }
+    ]
+  }
+}
