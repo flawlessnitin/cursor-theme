@@ -1,74 +1,49 @@
-# My Custom Theme
+# Cursor Theme
 
-A beautiful custom color theme for Visual Studio Code.
+A Cursor-inspired dark theme for Visual Studio Code with purple accents.
 
-## Setup
+![Cursor Theme Preview](screenshots/screenshot-1.png)
 
-### Installation
+## Features
 
-1. **Clone the repository**
+- Clean dark UI inspired by Cursor editor
+- Purple accent colors for a modern look
+- Carefully crafted syntax highlighting
+- Optimized for readability during long coding sessions
 
-   ```Shell
-   git clone https://github.com/flawlessnitin/cursor-theme.git
-   ```
+## Screenshots
 
-2. **Copy to VS Code extensions directory**
+<!-- Add your screenshots here after taking them -->
 
-   Navigate to your VS Code extensions folder and copy the cloned folder there:
+![JavaScript](screenshots/screenshot-1.png)
+![Python](screenshots/screenshot-2.png)
 
-   * **Windows:** `%USERPROFILE%\.vscode\extensions\`
-   * **macOS/Linux:** `~/.vscode/extensions/`
+## Installation
 
-   Example:
+### From VS Code Marketplace
 
-   ```Shell
-   # Windows
-   xcopy cursor-theme %USERPROFILE%\.vscode\extensions\cursor-theme\ /E /I
+1. Open VS Code
+2. Go to Extensions (`Ctrl+Shift+X` / `Cmd+Shift+X`)
+3. Search for "Cursor Theme"
+4. Click **Install**
+5. Select the theme: `Ctrl+K Ctrl+T` → Choose **Cursor Theme**
 
-   # macOS/Linux
-   cp -r cursor-theme ~/.vscode/extensions/
-   ```
+### From VSIX File
 
-3. **Restart VS Code**
-
-   Close and reopen Visual Studio Code to load the extension.
-
-### Testing During Development
-
-If you want to test changes while developing the theme:
-
-1. Open this folder in VS Code
-2. Press `F5` to launch an Extension Development Host window
-3. The theme will be automatically loaded in the new window
-4. Go to `File > Preferences > Color Theme` and select "My Custom Theme"
+1. Download the `.vsix` file from [Releases](https://github.com/flawlessnitin/cursor-theme/releases)
+2. In VS Code, open Command Palette (`Ctrl+Shift+P`)
+3. Run **Extensions: Install from VSIX...**
+4. Select the downloaded file
 
 ## Usage
 
-Once installed, activate the theme:
-
-1. Open Command Palette (`Ctrl+Shift+P` on Windows/Linux or `Cmd+Shift+P` on macOS)
+1. Open Command Palette (`Ctrl+Shift+P` / `Cmd+Shift+P`)
 2. Type "Color Theme" and select **Preferences: Color Theme**
-3. Choose **My Custom Theme** from the list
+3. Choose **Cursor Theme**
 
-Alternatively:
+## Feedback
 
-* Go to `File > Preferences > Color Theme` (or `Code > Preferences > Color Theme` on macOS)
-* Select **My Custom Theme**
-
-## Customization
-
-You can customize the theme colors and syntax highlighting by editing `themes/my-custom-theme-color-theme.json`:
-
-* **colors**: Controls UI elements (sidebar, status bar, editor background, panels, etc.)
-* **tokenColors**: Controls syntax highlighting for different code elements
-
-After making changes, reload VS Code or press `F5` in the development window to see updates.
-
-### Useful Resources
-
-* [VS Code Theme Color Reference](https://code.visualstudio.com/api/references/theme-color)
-* [TextMate Scopes](https://www.sublimetext.com/docs/scope_naming.html)
-* [VS Code Theme Guide](https://code.visualstudio.com/api/extension-guides/color-theme)
+If you have suggestions or find issues, please [open an issue](https://github.com/flawlessnitin/cursor-theme/issues) on GitHub.
 
 ## License
 
