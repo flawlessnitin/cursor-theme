@@ -18,7 +18,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Cursor Theme",
+        "label": "Cursor Color Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/my-custom-theme-color-theme.json"
       }
