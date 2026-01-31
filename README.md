@@ -2,7 +2,7 @@
 
 A Cursor-inspired dark theme for Visual Studio Code with purple accents.
 
-![Cursor Theme Preview](screenshots/screenshot-1.png)
+![1.00](https://raw.githubusercontent.com/flawlessnitin/cursor-theme/main/screenshots/screenshot-1.png)
 
 ## Features
 
@@ -13,10 +13,8 @@ A Cursor-inspired dark theme for Visual Studio Code with purple accents.
 
 ## Screenshots
 
-<!-- Add your screenshots here after taking them -->
-
-![JavaScript](screenshots/screenshot-1.png)
-![Python](screenshots/screenshot-2.png)
+![JavaScript](https://raw.githubusercontent.com/flawlessnitin/cursor-theme/main/screenshots/screenshot-1.png)
+![Python](https://raw.githubusercontent.com/flawlessnitin/cursor-theme/main/screenshots/screenshot-2.png)
 
 ## Installation
 
