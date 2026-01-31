@@ -39,6 +39,34 @@ A Cursor-inspired dark theme for Visual Studio Code with purple accents.
 2. Type "Color Theme" and select **Preferences: Color Theme**
 3. Choose **Cursor Theme**
 
+## Recommended Font
+
+For the best experience, we recommend using **Geist Mono** font.
+
+### Install Geist Mono
+
+1. Download from [GitHub - Geist Font](https://github.com/vercel/geist-font) or [Vercel](https://vercel.com/font)
+2. Install the font on your system
+
+### Configure in VS Code
+
+1. Open Settings (`Ctrl+,` / `Cmd+,`)
+2. Search for "Font Family"
+3. Set **Editor: Font Family** to:
+   ```
+   'Geist Mono', Consolas, 'Courier New', monospace
+   ```
+
+Or add this to your `settings.json`:
+
+```JSON
+{
+  "editor.fontFamily": "'Geist Mono', Consolas, 'Courier New', monospace",
+  "editor.fontSize": 14,
+  "editor.fontLigatures": true
+}
+```
+
 ## Feedback
 
 If you have suggestions or find issues, please [open an issue](https://github.com/flawlessnitin/cursor-theme/issues) on GitHub.
