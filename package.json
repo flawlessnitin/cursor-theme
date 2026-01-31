@@ -4,6 +4,7 @@
   "description": "A Cursor-inspired dark theme with purple accents",
   "version": "0.0.1",
   "publisher": "flawlessnitin",
+  "icon": "icon.ico",
   "repository": {
     "type": "git",
     "url": "https://github.com/flawlessnitin/cursor-theme.git"
