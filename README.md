@@ -6,10 +6,10 @@ A Cursor-inspired dark theme for Visual Studio Code with purple accents.
 
 ## Features
 
-- Clean dark UI inspired by Cursor editor
-- Purple accent colors for a modern look
-- Carefully crafted syntax highlighting
-- Optimized for readability during long coding sessions
+* Clean dark UI inspired by Cursor editor
+* Purple accent colors for a modern look
+* Carefully crafted syntax highlighting
+* Optimized for readability during long coding sessions
 
 ## Screenshots
 

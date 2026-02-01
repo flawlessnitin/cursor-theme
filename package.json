@@ -1,8 +1,8 @@
 {
   "name": "cursor-color-theme",
   "displayName": "Cursor Color Theme",
-  "description": "A Cursor-inspired dark theme with purple accents",
-  "version": "0.0.3",
+  "description": "A refined Cursor-inspired dark theme with comprehensive syntax highlighting for web, web3, and systems programming",
+  "version": "0.0.4",
   "publisher": "flawlessnitin",
   "icon": "icon.ico",
   "repository": {
