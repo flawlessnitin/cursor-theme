@@ -1,13 +1,26 @@
 {
   "name": "cursor-color-theme",
-  "displayName": "Cursor Color Theme",
-  "description": "A refined Cursor-inspired dark theme with comprehensive syntax highlighting for web, web3, and systems programming",
-  "version": "0.0.4",
+  "displayName": "Cursor Dark Theme - Modern Editor Colors",
+  "description": "A beautiful dark theme inspired by Cursor editor. Features elegant purple accents, eye-friendly colors, and comprehensive syntax highlighting for JavaScript, TypeScript, Python, React, Vue, Rust, Go, Solidity, and 50+ languages. Perfect for long coding sessions.",
+  "version": "0.0.5",
   "publisher": "flawlessnitin",
+  "author": {
+    "name": "Nitin",
+    "url": "https://github.com/flawlessnitin"
+  },
+  "license": "MIT",
   "icon": "icon.ico",
+  "galleryBanner": {
+    "color": "#1a1a1a",
+    "theme": "dark"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/flawlessnitin/cursor-theme.git"
+  },
+  "homepage": "https://github.com/flawlessnitin/cursor-theme#readme",
+  "bugs": {
+    "url": "https://github.com/flawlessnitin/cursor-theme/issues"
   },
   "engines": {
     "vscode": "^1.80.0"
@@ -15,10 +28,39 @@
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "cursor theme",
+    "cursor editor",
+    "dark mode",
+    "purple theme",
+    "syntax highlighting",
+    "color theme",
+    "modern theme",
+    "developer theme",
+    "programming theme",
+    "javascript",
+    "typescript",
+    "python",
+    "react",
+    "vue",
+    "rust",
+    "go",
+    "solidity",
+    "web3",
+    "vscode theme",
+    "editor theme",
+    "minimal theme",
+    "clean theme",
+    "nord inspired",
+    "eye care",
+    "low contrast"
+  ],
   "contributes": {
     "themes": [
       {
-        "label": "Cursor Color Theme",
+        "label": "Cursor Dark Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/my-custom-theme-color-theme.json"
       }
