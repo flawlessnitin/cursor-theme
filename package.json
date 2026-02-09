@@ -2,7 +2,7 @@
   "name": "cursor-color-theme",
   "displayName": "Cursor Dark Theme - Modern Editor Colors",
   "description": "A beautiful dark theme inspired by Cursor editor. Features elegant purple accents, eye-friendly colors, and comprehensive syntax highlighting for JavaScript, TypeScript, Python, React, Vue, Rust, Go, Solidity, and 50+ languages. Perfect for long coding sessions.",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "publisher": "flawlessnitin",
   "author": {
     "name": "Nitin",
