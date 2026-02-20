@@ -1,8 +1,8 @@
 {
   "name": "cursor-color-theme",
-  "displayName": "Cursor Dark Theme - Modern Editor Colors",
-  "description": "A beautiful dark theme inspired by Cursor editor. Features elegant purple accents, eye-friendly colors, and comprehensive syntax highlighting for JavaScript, TypeScript, Python, React, Vue, Rust, Go, Solidity, and 50+ languages. Perfect for long coding sessions.",
-  "version": "0.0.8",
+  "displayName": "Cursor Themes - Dark & Light Collection",
+  "description": "A stunning collection of 10 hand-crafted themes (8 dark + 2 light). Includes Cursor Dark, Cursor Dark Pro, Cursor Dark VSCode, Midnight Ocean, Ember Glow, Neon Synthwave, Forest Night, Moonlight Purple, Morning Mist, and Arctic Frost. Comprehensive syntax highlighting for JavaScript, TypeScript, Python, React, Vue, Rust, Go, Solidity, and 50+ languages.",
+  "version": "0.1.0",
   "publisher": "flawlessnitin",
   "author": {
     "name": "Nitin",
@@ -31,31 +31,31 @@
   "keywords": [
     "theme",
     "dark theme",
+    "light theme",
     "cursor theme",
     "cursor editor",
     "dark mode",
+    "light mode",
     "purple theme",
+    "ocean theme",
+    "synthwave",
+    "forest theme",
+    "frost theme",
     "syntax highlighting",
     "color theme",
     "modern theme",
     "developer theme",
-    "programming theme",
+    "theme pack",
     "javascript",
     "typescript",
     "python",
     "react",
-    "vue",
     "rust",
     "go",
     "solidity",
-    "web3",
     "vscode theme",
     "editor theme",
-    "minimal theme",
-    "clean theme",
-    "nord inspired",
-    "eye care",
-    "low contrast"
+    "eye care"
   ],
   "contributes": {
     "themes": [
@@ -63,6 +63,51 @@
         "label": "Cursor Dark Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/my-custom-theme-color-theme.json"
+      },
+      {
+        "label": "Cursor Dark Pro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cursor-dark-pro.json"
+      },
+      {
+        "label": "Cursor Dark VSCode",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cursor-dark-vscode.json"
+      },
+      {
+        "label": "Midnight Ocean",
+        "uiTheme": "vs-dark",
+        "path": "./themes/midnight-ocean.json"
+      },
+      {
+        "label": "Ember Glow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ember-glow.json"
+      },
+      {
+        "label": "Neon Synthwave",
+        "uiTheme": "vs-dark",
+        "path": "./themes/neon-synthwave.json"
+      },
+      {
+        "label": "Forest Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/forest-night.json"
+      },
+      {
+        "label": "Moonlight Purple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/moonlight-purple.json"
+      },
+      {
+        "label": "Morning Mist",
+        "uiTheme": "vs",
+        "path": "./themes/morning-mist.json"
+      },
+      {
+        "label": "Arctic Frost",
+        "uiTheme": "vs",
+        "path": "./themes/arctic-frost.json"
       }
     ]
   }
