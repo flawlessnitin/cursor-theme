@@ -5,7 +5,7 @@
 [![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/flawlessnitin.cursor-color-theme?color=yellow)](https://marketplace.visualstudio.com/items?itemName=flawlessnitin.cursor-color-theme)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-A stunning collection of **8 hand-crafted themes** for Visual Studio Code — 6 dark and 2 light. Every theme features carefully selected colors, comprehensive syntax highlighting for 50+ languages, and a polished UI designed for long coding sessions.
+A stunning collection of **18 hand-crafted themes** for Visual Studio Code — 16 dark and 2 light. Every theme features carefully selected colors, comprehensive syntax highlighting for 50+ languages, and a polished UI designed for long coding sessions.
 
 ![Cursor Dark Theme Preview](https://raw.githubusercontent.com/flawlessnitin/cursor-theme/main/screenshots/screenshot-1.png)
 
@@ -21,6 +21,14 @@ A stunning collection of **8 hand-crafted themes** for Visual Studio Code — 6 
 | **Neon Synthwave** | Cyberpunk purple-black with hot pink and electric cyan neon highlights | Hot Pink |
 | **Forest Night** | Dark green-gray backgrounds with earthy sage and natural tones | Green |
 | **Moonlight Purple** | Deep indigo backgrounds with soft lavender and violet accents | Violet |
+| **Aurora Dusk** | Cool blue-gray dark base with aurora cyan, lilac, and mint highlights | Aurora Cyan |
+| **Carbon Bloom** | Charcoal dark canvas with teal, violet, and warm amber syntax contrast | Teal |
+| **Rose Nebula** | Plum-black night palette with rose-magenta and icy cyan accents | Rose Magenta |
+| **Soot Ember Minimal** | Near-black with a tiny warm ash tint and a restrained minimal palette | Ember Gold |
+| **Arcade Carbon** | Near-black base with colorful retro-arcade pops for lively syntax contrast | Neon Pink |
+| **Classic Terminal Ink** | Traditional editor feel with muted classic tones and balanced readability | Vintage Gold |
+| **Mono Slate Pop** | Mostly monochrome slate syntax with a few carefully placed accent pops | Slate |
+| **Retro Amber Console** | Old-school amber-forward coding vibe on an almost-black background | Amber |
 
 ### Light Themes
 
@@ -31,7 +39,7 @@ A stunning collection of **8 hand-crafted themes** for Visual Studio Code — 6 
 
 ## ✨ Why Choose This Collection?
 
-- **8 Unique Themes** — Find the perfect mood for any time of day
+- **18 Unique Themes** — Find the perfect mood for any time of day
 - **Eye-Friendly Colors** — Carefully tuned contrast levels reduce eye strain
 - **50+ Languages** — Comprehensive syntax highlighting support
 - **Web3 Ready** — First-class support for Solidity and blockchain development
@@ -78,7 +86,7 @@ A stunning collection of **8 hand-crafted themes** for Visual Studio Code — 6 
 
 1. Open Command Palette (`Ctrl+Shift+P` / `Cmd+Shift+P`)
 2. Type **"Color Theme"** and select **Preferences: Color Theme**
-3. Choose from: **Cursor Dark Theme**, **Midnight Ocean**, **Ember Glow**, **Neon Synthwave**, **Forest Night**, **Moonlight Purple**, **Morning Mist**, or **Arctic Frost**
+3. Choose from: **Cursor Dark Theme**, **Cursor Dark Pro**, **Cursor Dark VSCode**, **Midnight Ocean**, **Ember Glow**, **Neon Synthwave**, **Forest Night**, **Moonlight Purple**, **Aurora Dusk**, **Carbon Bloom**, **Rose Nebula**, **Soot Ember Minimal**, **Arcade Carbon**, **Classic Terminal Ink**, **Mono Slate Pop**, **Retro Amber Console**, **Morning Mist**, or **Arctic Frost**
 
 Or use the keyboard shortcut: `Ctrl+K Ctrl+T`
 

@@ -1,8 +1,8 @@
 {
   "name": "cursor-color-theme",
   "displayName": "Cursor Themes - Dark & Light Collection",
-  "description": "A stunning collection of 10 hand-crafted themes (8 dark + 2 light). Includes Cursor Dark, Cursor Dark Pro, Cursor Dark VSCode, Midnight Ocean, Ember Glow, Neon Synthwave, Forest Night, Moonlight Purple, Morning Mist, and Arctic Frost. Comprehensive syntax highlighting for JavaScript, TypeScript, Python, React, Vue, Rust, Go, Solidity, and 50+ languages.",
-  "version": "0.1.0",
+  "description": "A stunning collection of 18 hand-crafted themes (16 dark + 2 light). Comprehensive syntax highlighting for JavaScript, TypeScript, Python, React, Vue, Rust, Go, Solidity, and 50+ languages.",
+  "version": "0.2.0",
   "publisher": "flawlessnitin",
   "author": {
     "name": "Nitin",
@@ -98,6 +98,46 @@
         "label": "Moonlight Purple",
         "uiTheme": "vs-dark",
         "path": "./themes/moonlight-purple.json"
+      },
+      {
+        "label": "Aurora Dusk",
+        "uiTheme": "vs-dark",
+        "path": "./themes/aurora-dusk.json"
+      },
+      {
+        "label": "Carbon Bloom",
+        "uiTheme": "vs-dark",
+        "path": "./themes/carbon-bloom.json"
+      },
+      {
+        "label": "Rose Nebula",
+        "uiTheme": "vs-dark",
+        "path": "./themes/rose-nebula.json"
+      },
+      {
+        "label": "Soot Ember Minimal",
+        "uiTheme": "vs-dark",
+        "path": "./themes/soot-ember-minimal.json"
+      },
+      {
+        "label": "Arcade Carbon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/arcade-carbon.json"
+      },
+      {
+        "label": "Classic Terminal Ink",
+        "uiTheme": "vs-dark",
+        "path": "./themes/classic-terminal-ink.json"
+      },
+      {
+        "label": "Mono Slate Pop",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mono-slate-pop.json"
+      },
+      {
+        "label": "Retro Amber Console",
+        "uiTheme": "vs-dark",
+        "path": "./themes/retro-amber-console.json"
       },
       {
         "label": "Morning Mist",

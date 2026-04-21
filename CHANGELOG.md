@@ -2,6 +2,21 @@
 
 All notable changes to the "Cursor Dark Theme" extension will be documented in this file.
 
+## [0.2.0] - 2026-04-21
+
+### Added
+
+- Added three new dark themes: Aurora Dusk, Carbon Bloom, and Rose Nebula
+- Added balanced high-contrast syntax palettes for punchy but eye-friendly code readability
+- Registered all new themes in extension contributions for direct selection in VS Code
+- Added five near-black dark themes with distinct syntax styles: Soot Ember Minimal, Arcade Carbon, Classic Terminal Ink, Mono Slate Pop, and Retro Amber Console
+- Added minimal, colorful, and retro/classic syntax variants while keeping eye-friendly contrast
+
+### Updated
+
+- Updated marketplace/extension descriptions to reflect 18 total themes (16 dark + 2 light)
+- Refreshed README theme list and activation section with the expanded lineup
+
 ## [0.0.5] - 2026-02-02
 
 ### Improved
